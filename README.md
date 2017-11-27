@@ -15,7 +15,7 @@ En base a lo mencionado antes, hemos realizado el siguiente prototipo de baja fi
 
 **Empezamos con un "log in" del usuario**
 
-![prototipo1](assests/)
+![prototipo1](assets/log in.PNG)
 
 **Una vez el usuario esté logeado, podrá hacer la búsqueda de la información que desee mediante los filtros.** 
 
@@ -25,4 +25,4 @@ En base a lo mencionado antes, hemos realizado el siguiente prototipo de baja fi
 
 **El DashBoard propuesto nos muestra los resultados de una búsqueda con 8 filtros**
 
-![prototipo2](assests/)
+![prototipo2](assets/dashboard.PNG)
