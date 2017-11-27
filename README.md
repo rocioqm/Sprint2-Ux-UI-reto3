@@ -15,7 +15,7 @@ En base a lo mencionado antes, hemos realizado el siguiente prototipo de baja fi
 
 **Empezamos con un "log in" del usuario**
 
-![prototipo1](assets/log in.PNG)
+![prototipo1](assets/login.PNG)
 
 **Una vez el usuario esté logeado, podrá hacer la búsqueda de la información que desee mediante los filtros.** 
 
